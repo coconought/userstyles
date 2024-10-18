@@ -874,9 +874,9 @@
       color: @white;
 
       .ytp-swatch-background-color,
-      .ytp-play-progress {
+      /*.ytp-play-progress {
         background: @accent-color !important;
-      }
+      }*/
 
       .ytp-svg-fill,
       [fill="#fff"] {
